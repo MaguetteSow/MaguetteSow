@@ -8,4 +8,4 @@
 MaguetteSow/MaguetteSow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Gray Minimalist Resume (1).pdf](https://github.com/MaguetteSow/MaguetteSow/files/11199083/Gray.Minimalist.Resume.1.pdf)
+[Maguette_sow_Resume.pdf](https://github.com/MaguetteSow/MaguetteSow/files/11199083/Gray.Minimalist.Resume.1.pdf)
